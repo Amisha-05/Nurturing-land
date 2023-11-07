@@ -18,6 +18,5 @@ Here you can see the website's UI:
 ![2023-11-07 (12)](https://github.com/Amisha-05/Nurturing-land/assets/110057532/2b45e062-975e-4675-b639-a921a1468e41)
 ![2023-11-07 (13)](https://github.com/Amisha-05/Nurturing-land/assets/110057532/fcdb706f-b83a-4171-aa3c-09ca8e62c625)
 ![2023-11-07 (14)](https://github.com/Amisha-05/Nurturing-land/assets/110057532/0c091e46-6da5-40c8-8ded-41d55d02a0be)
-![2023-11-07 (14)](https://github.com/Amisha-05/Nurturing-land/assets/110057532/6239a98d-7ccc-48c1-a99b-cee7dc405fe0)
 ![2023-11-07 (13)](https://github.com/Amisha-05/Nurturing-land/assets/110057532/5ce2b72e-faa7-4e81-938f-779eeecc0796)
 ![2023-11-07 (15)](https://github.com/Amisha-05/Nurturing-land/assets/110057532/5b702e53-0692-4635-aefb-fb0e5a988fd9)
