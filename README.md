@@ -1,8 +1,8 @@
 <h1>Nurturingland</h1>
 <p>website using React and Firebase that addresses maternal and child healthcare issues.</p>
-To run : npm install --force     
-npm start
-Here you can see the website's UI:
+<p>To run : npm install --force   </p>  
+<p>npm start</p>
+<p>Here you can see the website's UI:</p>
 
 
 
